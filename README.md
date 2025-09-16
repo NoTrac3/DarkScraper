@@ -57,11 +57,6 @@ Feature Highlights:
    - Size-based categorization
    - Error diagnostics with remediation guidance
 
-Installation & Configuration:
-────────────────────────────
-
-[See previous installation steps for Tor configuration]
-
 Command Reference with Complete Examples:
 ─────────────────────────────────────────
 
