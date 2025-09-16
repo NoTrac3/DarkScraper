@@ -205,11 +205,6 @@ Ethical Guidelines:
    - Never exploit discovered resources
    - Anonymize all research data
 
-Support & Development:
-- Report issues: github.com/yourrepo/darkscraper/issues
-- Feature requests: github.com/yourrepo/darkscraper/discussions
-- Commercial licensing: contact@securityfirm.com
-
 Warning:
 This tool provides access to unregulated networks. You may encounter:
 - Illegal content and services
