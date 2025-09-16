@@ -213,6 +213,3 @@ This tool provides access to unregulated networks. You may encounter:
 - Advanced monitoring systems
 
 Use only with proper authorization, legal counsel, and psychological preparation. Maintain strict operational security protocols at all times.
-
-License:
-GNU General Public License v3.0 (Commercial licenses available)
